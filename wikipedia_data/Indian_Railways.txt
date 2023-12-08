@@ -1,0 +1,1945 @@
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Government of India statutory body
+This article is about the government agency. For general information on railways in India, see Rail transport in India.
+
+
+Indian RailwaysRail Bhawan, New DelhiNative nameIndian RailwaysTypeStatutory BodyIndustryRail transportFounded12 September 1837 (186 years ago) (1837-09-12)[1][2]HeadquartersRail Bhawan, New Delhi, IndiaArea servedIndiaKey peopleAshwini Vaishnaw(Minister for Railways)Jaya Varma SinhaIRTS (Chairperson and Chief Executive Officer)[3]ServicesPassenger railwaysFreight train servicesParcel carrierCatering and tourism servicesParking lot operationsOther related servicesRevenue ₹240,000 crore (US$30 billion)[4] (2022–23)Net income ₹4,464 crore (US$560 million)[4] (2022–23)OwnerMinistry of Railways, Government of IndiaNumber of employees1,212,882 [5] (31 March 2022)Divisions
+18 operational and 1 non-operational zones
+Central RailwayEast Central RailwayEast Coast RailwayEastern RailwayKonkan RailwayMetro Railway, KolkataNorth Central RailwayNorth Eastern RailwayNorth Western RailwayNortheast Frontier RailwayNorthern RailwaySouth Central RailwaySouth Coast Railway [Yet to be operational]South East Central RailwaySouth Eastern RailwaySouth Western RailwaySouthern RailwayWest Central RailwayWestern Railway
+Subsidiaries
+List
+ Braithwaite and Company
+ Container Corporation of India
+ Centre for Railway Information Systems
+ Bhartiya Rail Bijlee Company Limited
+ Indian Railway Catering and Tourism Corporation
+ Indian Railway Finance Corporation
+ Ircon International
+ Konkan Railway Corporation
+ Mumbai Railway Vikas Corporation
+ National High Speed Rail Corporation Limited
+ Pipavav Railway Corporation Limited
+ Rail India Technical and Economic Service
+ Rail Vikas Nigam
+ RailTel
+
+Websitewww.indianrailways.gov.in 
+OverviewReporting markIRTechnicalTrack gauge1,676 mm (5 ft 6 in)1,000 mm (3 ft 3+3⁄8 in)762 mm (2 ft 6 in)610 mm (2 ft)Electrification58,812 kilometres (36,544 mi)[6]  as of April, 2023Length68,043 kilometres (42,280 mi) (route)[5] 102,831 kilometres (63,896 mi) (running track)[5]  128,305 kilometres (79,725 mi) (total track)[5]  as of 31 March 2022 [7]
+Indian Railways (IR) is a statutory body under the ownership of the Ministry of Railways, Government of India that operates India's national railway system.[8] It manages the fourth largest national railway system in the world by size, with a total route length of 68,043 km (42,280 mi), running track length of 102,831 km (63,896 mi) and track length of 128,305 km (79,725 mi) as of 31 March 2022[update].[9][5] 58,812 km (36,544 mi) of all the gauge routes are electrified with 25 kV 50 Hz AC electric traction as of 1 April 2023[update].[6]
+In 2020, Indian Railways carried 808.6 crore (8.086 billion) passengers and in 2022, Railways transported 1418.1 million tonnes of freight.[10][5] It runs 13,169 passenger trains daily, on both long-distance and suburban routes, covering 7,325 stations across India.[5] Mail or Express trains, the most common types of trains, run at an average speed of 50.6 km/h (31.4 mph). Suburban EMUs run at an average speed of 37.5 km/h (23.3 mph). Ordinary passenger trains (incl. mixed) run at an average speed of 33.5 km/h (20.8 mph).[5] The maximum speed of passenger trains varies, with the Vande Bharat Express running at a peak speed of 180 km/h (110 mph).
+In the freight segment, IR runs 8,479 trains daily.[5] The average speed of freight trains is around 42.2 km/h (26.2 mph). The maximum speed of freight trains varies from 60–75 km/h (37–47 mph) depending on their axle load with 'container special' trains running at a peak speed of 100 km/h (62 mph).
+As of March 2022[update], Indian Railways' rolling stock consisted of 3,18,196 freight wagons, 84,863 passenger coaches and 13,215 locomotives.[5] IR owns locomotive and coach-production facilities at several locations in India. It had 1.38 Million employees as of March 2020[update], making it the world's tenth-largest employer.[5] The government has committed to electrifying India's entire rail network by 2023–24, and become a "net zero (carbon emissions) railway" by 2030.[11]
+
+
+History[edit]
+Main article: Rail transport in India § History
+The first railway proposals for India were made in Madras in 1832.[12] India's first railway line was named Red Hill Railroad and was built by Arthur Cotton to transport granite for road-building. It ran from the Red Hills in Chennai to the Chintadripet bridge in Madras and was opened on 12 September 1837.[13][12] This railway, the first on the Indian Subcontinent, was only used for freight transport. In 1845, the Godavari Dam Construction Railway was built by Cotton at Dowleswaram in Rajahmundry, to supply stone for the construction of a dam over the Godavari River. In 1851, the Solani Aqueduct Railway was built by Proby Cautley in Roorkee to transport construction materials for an aqueduct over the Solani River.[12] These railway tracks were dismantled after each project was completed and no longer exist.
+India's first passenger train, operated by the Great Indian Peninsula Railway and hauled by three steam locomotives (Sahib, Sindh and Sultan), ran for 34 kilometres (21 mi) with 400 people in 14 carriages on 1,676 mm (5 ft 6 in) broad gauge track between Bori Bunder (Mumbai) and Thane on 16 April 1853.[14][15] The Thane viaducts, India's first railway bridges, were built over the Thane creek when the Mumbai-Thane line was extended to Kalyan in May 1854.[16] Eastern India's first passenger train ran 39 km (24 mi) from Howrah, near Kolkata, to Hoogly on 15 August 1854.[1] The first passenger train in South India ran 97 km (60 mi) from Royapuram-Veyasarapady (Madras) to Wallajaroad (Arcot) on 1 July 1856.[17]
+On 24 February 1873, a horse-drawn 3.8 km (2.4 mi) tram opened in Calcutta between Sealdah and Armenian Ghat Street.[18] On 9 May 1874, a horse-drawn tramway began operation in Bombay between Colaba and Parel.[19] In 1879, the Nizam's Guaranteed State Railway was established which built several railway lines across the then Hyderabad State with Kachiguda Railway Station serving as its headquarters.[20][21] In 1897, lighting in passenger coaches was introduced by many railway companies. On 3 February 1925, the first electric passenger train in India ran between Victoria Terminus and Kurla.[22] On 1926, Erode Trichinopoly line became the fastest ever gauge converted line in entire global railway network history. It had been converted from Meter Gauge to Broad Gauge in just 5 hours of time which became the recorded history and this record could not be broken till date.[23]
+The organization of Indian railways into regional zones began in 1951,[24] when the Southern (14 April 1951), Central (5 November 1951), and Western (5 November 1951) zones were created.[25] Fans and lights were mandated for all compartments in all passenger classes in 1951, and sleeping accommodations were introduced in coaches. In 1956, the first fully air-conditioned train was introduced between Howrah and Delhi (Presently known as Poorva Express).[26] Ten years later, the first containerised freight service began between Mumbai and Ahmedabad. In 1974, Indian Railways endured a 20 day strike, which damaged the nation's economy.[27][28]
+In 1986, computerized ticketing and reservations were introduced in New Delhi.[29] In 1988, the first Shatabdi Express was introduced between New Delhi and Jhansi; it was later extended to Bhopal.[30] Two years later, the first self-printing ticket machine (SPTM) was introduced in New Delhi.[31] In 1993, air-conditioned three-tier coaches and a sleeper class (separate from second class) were introduced on IR. The CONCERT system of computerized reservations was deployed in New Delhi, Mumbai and Chennai in September 1996. In 1998, coupon validating machines (CVMs) were introduced at Mumbai Chhatrapati Shivaji Maharaj Terminus. The nationwide concierge system began operation on 18 April 1999. In February 2000, the Indian Railways website went online.[32] Individuals can book reserved tickets in online through Indian Railways Catering and Tourism Corporation's (IRCTC) official website (www.irctc.co.in). On 3 August 2002, IR began online train reservations and ticketing.[33] Though in November 2019, the website suffered a data breach exposing the records of 2 million customers including about 583,000 unique email addresses, usernames and passwords in plain text.[34]
+The Railway Budget was usually presented two days before the Union budget every year till 2016. The central government approved merger of the Rail and General budgets from next year, ending a 92-year-old practice of a separate budget for the nation's largest transporter. On 31 March 2017, Indian Railways announced that the country's entire rail network would be electrified by 2022 or 2023, and become a net-zero (carbon emission) railway by 2030.[35][11]
+On 22 March 2020, Indian Railways announced a nationwide shutdown of passenger rail service to combat the COVID-19 pandemic in India. This became part of a nationwide lockdown to slow the spread of the novel coronavirus.[36] The railway shutdown was initially scheduled to last from 23 to 31 March,[37] but the nationwide lockdown, as announced by Prime Minister Narendra Modi on 24 March, was to last 21 days.[38] The national rail network is maintaining its freight operations during the lockdown, to transport essential goods.[39] On 29 March, Indian Railways announced that it would start service for special parcel trains to transport essential goods, in addition to regular freight service.[40] The national rail operator has also announced plans to convert coaches into isolation wards for patients of COVID-19.[41] The railways have since reopened and were functioning by 2022.
+The Indian government plans to invest ₹9.05 trillion (US$110 billion) to upgrade IR.[42]
+Infrastructure modernisation projects include high-speed rail;[43][44][45] redevelopment of 400 stations by monetizing 2,700 acres (11 km2) of spare railway land under a ₹10,70,000 crores($134 billion)  plan;[46] doubling tracks to reduce congestion and delays while improving safety;[47] the refurbishing of 12- to 15-year-old coaches at the Carriage Rehabilitation Workshop in Bhopal to enhance passenger amenities and fire safety;[48][49] Global Positioning System (GPS)-enabled tracking of trains to improve safety and service;[50] Digital India-driven ₹3,500,000 million (equivalent to ₹4.9 trillion or US$61 billion in 2023) digitalisation of the railway to improve efficiency and reduce cost;[47] rainwater harvesting, with 1885 systems installed by December 2016;[51] and reforestation of railway land and along the tracks.[52]
+All routes will be electrified to save on imported fuel costs.[47] Off-the-grid solar-powered trains are planned with the installation of one gigawatt of solar and 130 megawatts of wind power between 2017 and 2022; India introduced the world's first solar-powered train and 50 coaches with rooftop solar farms in June 2017.[53][54][55] Initial assessments of this experiment have been positive.[56] Rooftop solar electricity is planned at stations to reduce long-term fuel costs and protect the environment,[57] and sustainable LED lighting at all the stations was completed by March 2018 which saves Rs 500 million per annum in electricity bills.[58] Locomotive factories have been modernised, including two new factories in Bihar: an electric locomotive factory in Madhepura and a diesel locomotive factory in Marhaura, and 2,285 bio-toilets were introduced from April to July 2014.[59][60][61] A ₹200 billion (US$2.5 billion) partnership with Alstom to supply 800 electric locomotives from 2018 to 2028 was announced.[42]
+All the unstaffed level crossings had been eliminated by Jan 2019, and staffed level crossings are being progressively replaced by overbridges and underbridges.[62][47] Other safety projects include the extension of an automated fire alarm system, first introduced on Rajdhani Express trains in 2013, to all air-conditioned coaches;[63] and 6,095 GPS-enabled Fog Pilot Assistance System railway signalling devices (replacing the practice of placing firecrackers on tracks to alert train drivers) installed in 2017 in four zones: Northern, North Central, North Eastern and North Western; and replacing ICF coach with LHB coach.
+In an unprecedented move, the railways had suspended the services of all passenger trains for 48 days after the lockdown was announced by the PM on 24 March 2020. Its freight trains however continued to run during this period.[64] This was the first time in its entire history that lifeline of the nation was stopped. On 12 May 2020, in first phase, Railways started the Rajdhani Express for 15 cities and began the reservation for the same via IRCTC website an evening before.[65]
+Indian Railways is planning to seek investments from private firms to operate passenger trains for the first time. Ministry of Railways identified 109 origin-destination routes via 151 trains asked private companies to submit their interest.[66] Private companies may operate trains by April 2023.[67] This will incorporate modern trains with technological advancements like less maintenance, reduce travel time and create employment. 151 trains will be operated by the by private entities. Each train shall have minimum 16 coaches.[68]
+Government of India is building the world's highest rail bridge over the river Chenab, which will connect the Indian State of Jammu and Kashmir with the rest of India. It is set to be completed in 2022. According to the media, per a local government official: "This is the tallest railway bridge in the world and the maximum designed wind speed for the bridge is 266 kmph".[69]
+
+
+
+
+
+The smaller railway viaduct near Thane in 1855
+
+
+
+
+
+
+The longer railway viaduct near Thane in 1855
+
+
+
+
+
+
+Railway map of India in 1871
+
+
+
+
+
+
+Railway map of India in 1909
+
+
+
+
+Organisation[edit]
+Structure[edit]
+Main articles: Indian Railways organisational structure and Zones and divisions of Indian Railways
+Indian Railways is headed by a Four-member Railway Board whose chairman reports to the Ministry of Railways. The Railway Board also acts as the Ministry of Railways. The officers managing the office of Railway Board are mostly from organised Group A Railway Services and Railway Board Secretariat Service. IR is divided into 18 zones, headed by general managers who report to the Railway Board.[5] The zones are further subdivided into 71 operating divisions, headed by divisional railway managers (DRM).[70][71][72] The divisional officers of the engineering, mechanical, electrical, signal and telecommunication, stores, accounts, personnel, operating, commercial, security and safety branches report to their respective DRMs and are tasked with the operation and maintenance of assets. Station masters control individual stations and train movements through their stations' territory. In addition, there are a number of production units, training establishments, public sector enterprises and other offices working under the control of the Railway Board.[5]
+
+Human resources[edit]
+Main article: Centralised Training Institutes of the Indian Railways
+Staff are classified into gazetted (Groups A and B) and non-gazetted (Groups C and D) employees.[73] Gazetted employees carry out executive / managerial / officer level tasks. As of March 2017, the number of personnel (Groups A & B) constitutes 1.2% of the total strength, while Group C & D account for 92.6%  and 6.2% respectively.[5]
+There is no direct recruitment of Group B employees in Indian Railways and they are recruited by departmental promotional exams of Group C employees. In consultation with the UPSC and DoPT, Ministry of Railways has announced that, starting in 2023, the UPSC will conduct an exam (the IRMS Exam) as the means of recruiting candidates for the Indian Railway Management Service, or IRMS. 8 out of 10 Group-A Indian Railway services will be combined into the new IRMS, or Indian Railways Management Service, according to a gazette notification released by the Central Government.[74] Recruitment of Group C junior engineers and depot material superintendents is conducted by the Railway Recruitment Board. Group C employees are recruited by 21 Railway Recruitment Board or RRB, which are controlled by the Railway Recruitment Control Board (RRCB).[75][76] Group D staffs are recruited by 16 Railway Recruitment Cells or RRCs.
+The training of all groups is shared among seven centralized zonal training institutes and 295 training centers all over India.
+IR offers housing and runs its own hospitals, schools and sports facilities for the welfare of its staff.[5]
+
+Subsidiaries[edit]
+Following is the list of public sector undertakings (PSUs) and other organizations in which Indian Railways has a stake and are related to rail transport in India:[5]
+
+
+
+Name
+
+Sector
+
+Note
+
+
+Braithwaite & Co.
+
+Heavy industry, Foundry
+
+
+Administrative control was transferred from Ministry of Heavy Industries in 2010
+
+
+Container Corporation of India
+
+Intermodal freight transport
+
+
+Established in 1988
+
+
+Centre for Railway Information Systems
+
+Information technology
+
+
+Established in 1986
+
+
+Bhartiya Rail Bijlee Company Limited
+
+Electric power industry
+
+
+Joint Venture Company with NTPC Limited; 26% ownership
+
+
+Dedicated Freight Corridor Corporation of India
+
+Rail freight transport
+
+
+Established in 2006
+
+
+Indian Railway Catering and Tourism Corporation
+
+Online reservation, Catering and Tourism
+
+
+Established in 1999
+67% ownership as of 2022
+
+
+Indian Railway Finance Corporation
+
+Financial services
+
+
+Established in 1986
+
+
+Ircon International
+
+Rail infrastructure construction
+
+
+Established in 1976
+
+
+Konkan Railway Corporation
+
+Transport, Rail infrastructure construction
+
+
+Established in 1990
+
+
+Mumbai Railway Vikas Corporation
+
+Suburban rail operation & development
+
+
+Established in 1999
+51% ownership
+
+
+National High Speed Rail Corporation Limited
+
+High-speed rail construction & operation
+
+
+Established in 2016
+
+
+Pipavav Railway Corporation Limited
+
+Construction, Operation & Maintenance of Rail line between Surendranagar and Pipavav port
+
+
+Joint Venture Company with Gujarat Pipavav Port Limited; 50% ownership
+
+
+Rail India Technical and Economic Service
+
+Infrastructure construction & Finance services
+
+
+Established in 1974
+
+
+Rail Vikas Nigam Limited
+
+Rail infrastructure construction & Finance services
+
+
+Established in 2003
+
+
+RailTel Corporation of India Limited
+
+Telecommunications
+
+
+Established in 2000
+
+Other bodies[edit]
+
+
+
+
+Name
+
+Authority
+
+
+Central Organisation for Modernisation of Workshops
+
+Ministry of Railways
+
+
+Central Organisation for Railway Electrification
+
+Ministry of Railways
+
+
+Central Railside Warehouse Company Limited
+
+Ministry of Consumer Affairs, Food and Public Distribution
+
+
+Commission of Railway Safety
+
+Ministry of Civil Aviation
+
+
+Indian Railway Health Service
+
+Ministry of Railways
+
+
+Passenger Amenities Committee
+
+Ministry of Railways
+
+
+Rail Land Development Authority
+
+Ministry of Railways
+
+
+Railway Protection Force
+
+Ministry of Railways
+
+
+Railway Recruitment Control Board
+
+Ministry of Railways
+
+
+Railways Sports Promotion Board
+
+Ministry of Railways
+
+
+Research Design and Standards Organisation
+
+Ministry of Railways
+
+Rolling stock[edit]
+Locomotives[edit]
+Main article: Locomotives of India
+A WAG 12 freight class AC electric locomotive
+A WDP 4D passenger class diesel locomotive
+By 1990s, steam locomotives were phased in and electric and diesel locomotives, along with a few CNG (compressed natural gas) locomotives are used.[77] Steam locomotives are used only in heritage trains. Locomotives in India are classified by gauge, motive power, the work they are suited for, and their power or model number. Their four- or five-letter class name includes this information. The first letter denotes the track gauge, the second their motive power (diesel or electric), and the third their suitable traffic (goods, passenger, multi or shunting). The fourth letter denoted the locomotive's chronological model number, but in 2002, a new classification was adopted in which the fourth letter in newer diesel locomotives indicate horsepower range.
+A locomotive may have a fifth letter in its name, denoting a technical variant, subclass, or sub-type (a variation in the basic model (or series) or a different motor or manufacturer). In the new diesel-locomotive classification, the fifth letter refines the horsepower in 100-hp increments: A for 100 hp, B for 200 hp, C for 300 hp and so on. In this classification, a WDM-3A is a 3100 hp, a WDM-3D a 3400 hp and a WDM-3F a 3600 hp locomotive.[a] Diesel locomotives are fitted with auxiliary power units, which saves almost 88 percent of fuel during the idle time when a train is not running.[78]
+Presently Indian Railways rolling stock (bogies) are being manufactured by ICF, MCF and RCF. Whereas Locomotives are manufactured by Chittaranjan Locomotives, Banaras Locomotive Works, Patiala Locomotives Works. All these are owned and operated by the Railways Department. But Indian Railways also procure rolling stocks from BEML and BHEL which are other government organizations.
+
+
+Goods wagons[edit]
+A covered BCNA class goods wagon
+See also: Wagon numbering system in India
+A new wagon numbering system was adopted in Indian Railways in 2003.[79] Wagons are allocated 11 digits,[80] making it easy for identification and computerization of a wagon's information. The first two digits indicate Type of Wagon, the third and fourth digits indicate Owning Railway, the fifth and five digits indicate Year of Manufacture, the seventh to tenth digits indicate Individual Wagon Number, and the last digit is a Check digit.
+IR's bulk requirement of wagons is previously met by Bharat wagon and engineering, now the procurement of wagons and  manufacturing units are done by both in public and private sectors as well as other Public Sector Units under the administrative control of Ministry of Railways.[5] Indian Railways also created a sperate Joint Venture between SAIL and RITES and created a special purpose vehicle in the name of SAIL RITES Bengal wagon industry private limited for wagon manufacturing.[81]
+
+Passenger coaches[edit]
+See also: Indian Railways coaching stockA Linke Hofmann Busch (LHB) coach
+On long-distance routes and also on some shorter routes, IR uses two primary types of coach design types. ICF coach, in production from 1955 until Jan 2018,[82] constitute the bulk of the current stock. These coaches, considered to be having inadequate safety features, are slowly being phased out. As of September 2017, around 40,000 coaches are still in operation.[83] These coaches are being replaced with LHB coach. Introduced in mid '90s, these coaches are lighter, safer and are capable of speeds up to 160 km/h (99 mph).[84]
+IR has introduced new electric multiple unit (EMU) train sets for long-distance routes. One such, Vande Bharat is under operation and another, its sleeper version, is expected to run from 2023. These train sets are expected to replace locomotive-hauled trains on long-distance routes.[85]
+On regional short-distance routes, IR runs Mainline electrical multiple unit (MEMU) or Diesel electrical multiple unit (DEMU) trains, depending on the traction available. These train sets are self-propelled with capability for faster acceleration or deceleration and are expected to reduce congestion on dense routes. Passenger locomotive-hauled trains, having frequent stops, are slowly being replaced with train sets across India.[86]
+On suburban commuter routes around the large urban centers, IR runs trains with normal electric multiple unit (EMU) coaches. These are popularly called as "local trains" or simply "locals".[87]
+
+Manufacturing[edit]
+Indian Railways is a vertically integrated organization that produces the majority of its locomotives & rolling stock at in-house production units, with a few recent exceptions.
+
+
+
+
+
+
+
+Location
+
+Notes
+
+
+Locomotives
+
+
+Chittaranjan Locomotive Works
+
+Chittaranjan, West Bengal
+
+
+Manufacture of electric locomotives
+
+
+Banaras Locomotive Works
+
+Varanasi, Uttar Pradesh
+
+
+Manufacture of electric locomotives
+
+
+Diesel Locomotive Factory
+
+Marhowrah, Bihar
+
+
+JV with General Electric
+Manufacture of high capacity diesel locomotives for freight transportation
+
+
+Electric Locomotive Factory
+
+Madhepura, Bihar
+
+
+JV with Alstom SA
+Manufacture of electric locomotives for freight transportation
+
+
+Patiala Locomotive Works
+
+Patiala, Punjab
+
+
+Manufacture of electric locomotives
+
+
+Dankuni Locomotive Works
+
+Dankuni, West Bengal
+
+
+Manufactures electric locomotives acting as an ancillary unit of CLW
+
+
+Rolling Stock
+
+
+Integral Coach Factory
+
+Perambur, Chennai, Tamil Nadu
+
+
+R&D of Vande Bharat / Train 18 train sets
+
+
+Rail Coach Factory
+
+Kapurthala, Punjab
+
+
+
+
+Modern Coach Factory
+
+Raebareli, Uttar Pradesh
+
+
+
+
+Marathwada Rail Coach Factory
+
+Latur, Maharashtra
+
+
+
+
+Wheel & Axle
+
+
+Rail Wheel Factory
+
+Bengaluru, Karnataka
+
+
+
+
+Rail Wheel Plant
+
+Chhapra, Bihar
+
+
+
+
+Other Manufacturers
+
+
+BHEL
+
+Jhansi
+
+Locomotives, MEMU, EMU, Metro
+
+
+BEML
+
+Bengaluru
+
+MEMU, EMU, DEMU, Metro
+
+
+Maintenance
+The repair and maintenance of this vast fleet of rolling stock is carried out at 44 loco sheds, 212 carriage & wagon repair units and 45 periodic overhaul workshops across various zones of IR.[5]
+
+Network[edit]
+Tracks[edit]
+Comparison of gauges in India with the standard gauge
+See also: Project Unigauge
+As of 31 March 2022, IR network spans 128,305 km (79,725 mi) of track length, 102,831 km (63,896 mi) of running track length and 68,043 km (42,280 mi) of route length as stated in Year Book 2021-22.[7] Track sections are rated for speeds ranging from 80 to 200 km/h (50 to 124 mph), though the maximum speed attained by passenger trains is 180 km/h (110 mph) during trial runs. All of the broad-gauge network is equipped with long-welded, high-tensile strength 52kg/60kg 90 UTS rails and pre-stressed concrete (PSC) sleepers with elastic fastenings.[5]
+1,676 mm (5 ft 6 in) broad gauge is the gauge used by IR and spans almost the entire network as of March 31, 2022. It is the broadest gauge in use across the world for regular passenger movement.
+The 1,000 mm (3 ft 3+3⁄8 in) metre gauge tracks and 762 mm (2 ft 6 in) and 610 mm (2 ft) narrow gauge tracks are present only on the heritage routes as of March 31, 2022.
+
+Electrification[edit]
+Main article: Central Organisation for Railway Electrification
+As of 31 July 2023, IR has electrified 59,524 km (36,986 mi) of the total broad-gauge route kilometers. Indian Railway uses 25 kV 50 Hz AC traction on all its electrified tracks.[5][6]
+Railway electrification in India began with the first electric train, between Chhatrapati Shivaji Terminus and Kurla on the Harbour Line, on 3 February 1925 on the Great Indian Peninsula Railway (GIPR) at 1500 V DC. Heavy gradients in the Western Ghats necessitated the introduction of electric traction on the GIPR to Igatpuri on the North East line and Pune on the South East line. On 5 January 1928 1500 V DC traction was introduced on the suburban section of the Bombay, Baroda and Central India Railway between Colaba and Borivili, and between Madras Beach and Tambaram of the Madras and Southern Mahratta Railway on 11 May 1931, to meet growing traffic needs.[88] The 3000 V DC electrification of the Howrah-Burdwan section of the Eastern Railway was completed in 1958. The first 3000 V DC EMU service began on the Howrah-Sheoraphuli section on 14 December 1957.[88]
+Research and trials in Europe, particularly on French Railways (SNCF), indicated that 25 kV AC was an economical electrification system. Indian Railways decided in 1957 to adopt 25 kV AC as its standard, with SNCF their consultant in the early stages. The first 25 kV AC section was Raj Kharswan–Dongoaposi on the South Eastern Railway in 1960. The first 25 kV AC EMUs, for Kolkata suburban service, began service in September 1962. For continuity, the Howrah–Burdwan section of the Eastern Railway and the Madras Beach–Tambaram section of the Southern Railway were converted to 25 kV AC by 1968. Because of limitations in the DC traction system, a decision was made to convert the electric traction system of the Mumbai suburban rail network of WR and CR from 1.5kV DC to 25 kV AC in 1996–97. The conversion from DC to AC traction was completed in 2012 by Western Railway, and in 2016 by Central Railway. Since then, the entire electrified mainline rail network in India uses 25 kV AC, and DC traction is used only for metros and trams.[88]
+Indian Railways announced on 31 March 2017 that the country's entire rail network would be electrified by 2022.[35][89] Though not a nascent concept, the electrification in India now has been committed with a fresh investment of ₹35,000 crore (US$4.4 billion) to electrify the entire network and eliminate the cost of fuel under transportation which will amount to a massive savings of ₹10,500 crore (US$1.3 billion) overall. This will be a boon for savings for the Government to channelize the investments in modernization of the railway infrastructure.[90] Close to 30 billion units of electricity will be required for railway electrification on an annual basis by 2022, leading to excellent opportunities for IPPs of conventional power.[89]
+
+
+Signaling and telecommunication[edit]
+See also: Railway signal and Railway signalling
+A railway signal
+IR uses a range of signalling technologies and methods to manage its train operations based on traffic density and safety requirements.
+As of March 2020, around 3,309 km (2,056 mi) of the route uses automatic block signalling for train operations – concentrated in high density routes, large cities and junctions.[5] Remaining routes are based on absolute block signalling with trains manually controlled by signal men from the signal boxes typically located at stations. Few low density routes still use manual block signalling methods with communication on track clearance based on physical exchange of tokens.[91] In a few sections, intermediate block signalling is provided to further enhance line capacity with minimal investment. As of March 2020, 602 block sections have intermediate block signals on IR.[5]
+IR primarily uses coloured signal lights, which replaced semaphores and disc-based signalling (dependent on position or colour).[92] IR uses two-aspect, three-aspect and four (or multiple) aspect color signalling across its network.[93]
+Signals at most stations are interlocked using panel interlocking, route-relay interlocking or electronic interlocking methods that eliminate scope for human signalling errors. IR uses track circuiting, and block proving axle counters for train detection. As of March 2017, 6,018 stations across IR have interlocked stations and multi-aspect signalling. Around 99% of key routes (A, B, C and D) have track circuitry or block proving axle counters for automated train detection. Also, IR has about 59,105 route kilometers of optical fiber cable network across India, that is used for train control, voice and data communication. Around 3,445 km (2,141 mi) of the route is covered by GSM-R based Mobile Train Radio Communication.[5]
+In December 2017, IR announced that it will implement ETCS Level 2 system for signalling and control on key routes with an investment of ₹12,000 crore (US$1.5 billion).[94] Currently IR uses Centralised Traffic Control (CTC) on the busy Ghaziabad – Kanpur route and real-time train monitoring systems on Mumbai and Kolkata suburban routes.[5]
+
+Links with adjacent countries[edit]
+Bangladesh[edit]
+Bangladesh is connected by the four times a week Maitree Express that runs from Kolkata to Dhaka, weekly Bandhan Express which began running commercial trips between Kolkata and Khulna in November 2017[95][96] and biweekly Mitali Express which runs between New Jalpaiguri Junction and Dhaka.[97]
+Indian and Bangladeshi governments has started work on a new rail link to ease surface transport.[98] India will build a 13 km (8.1 mi) railway linking Tripura's capital Agartala with Bangladesh's southeastern city of Akhaura, an important railway junction connected to Chittagong port, resource-rich Sylhet and Dhaka.[99] An agreement to implement the railway project was signed between the then Indian Prime Minister Manmohan Singh and Bangladesh Premier Sheikh Hasina during the latter's visit to India in January 2010.[100] Total cost of the proposed project is estimated at ₹252 crore (US$32 million). The Indian Railway Construction Company (IRCON) is constructing the new railway tracks on both sides of the border. Of the 13 km (8.1 mi) rail line, 5 km (3.1 mi) of tracks fall in Indian territory.[101][102] The Northeast Frontier Railways (NFR) is also laying the connecting tracks for another new rail link on the Indian side, up to Tripura's southernmost border town, Sabroom – 135 km (84 mi) south of Agartala. From Sabroom, the Chittagong international sea port is 72 km (45 mi) away.[103]
+
+Bhutan[edit]
+No rail link currently exists with Bhutan as of 2021. An 18 km (11 mi) long railway line from Hasimara on the New Jalpaiguri–Alipurduar line in West Bengal to Toribari near Pasakha town of Bhutan was planned to be built via Satali, Bharna Bari and Dalsingpara.[104][105] However this project was scrapped due to opposition from locals.[105] In 2020, a new line survey was conducted by the IR for a 37.5 km (23.3 mi) long line from Mujnai on the New Jalpaiguri–Alipurduar line to Neyopaling village under Phuentshopelri Gewog in Samtse.[105][106]
+
+Myanmar[edit]
+No rail link currently exist with Myanmar as of 2021. The Jiribam–Imphal railway line, currently under construction is planned to be extended up to the Indo-Myanmar border at Moreh and to be connected to Tamu on the Myanmar side.[107][108] Then a missing link needs to be built from Tamu to the existing railhead at Kalay of the Kalay–Pakokku–Chaung U–Myouhaung (Mandalay) line.[107][108] The construction of this missing link, as per the feasibility study conducted by the Ministry of External Affairs through RITES Ltd, is estimated to cost ₹29.41 billion (US$370 million).[108][109]
+
+Nepal[edit]
+Two rail links to Nepal exist as of 2021, with a third under construction. A 6 km-long (3.7 mi)  line from Raxaul to Sirsiya (near Birgunj) was opened for freight traffic in 2005[110] as per an agreement made between the Indian and Nepali government on 2004.[111] In 2018 an MoU was signed between the Indian and Nepali government to extend the Raxaul–Birgunj line to the Nepali capital of Kathmandu.[112]
+The Jaynagar to Janakpur line was opened on 2020 till Kurtha[113][114] after which the section was handed over to the Nepal Railways in 2021.[115] Services on the section did not begin on the line until April 2022, owing to staffing problems of Nepal Railways.[116][117] The Kurtha–Bijalpura construction is underway and it has been proposed to extend the line to Bardibas.[118]
+Construction of the 18.6 km-long (11.6 mi) Jogbani to Biratnagar railway line is underway as of 2021. The first phase consisting of 8 kilometres (5.0 mi) railway line is already completed from Bathnaha to Nepal Customs point and the remaining portion of the project from Nepal Customs point to Biratnagar is under construction.[119]
+
+Pakistan[edit]
+Two trains operate to Pakistan: the Samjhauta Express between Delhi and Lahore and the Thar Express between Jodhpur and Karachi. However, as of August 2019, they have been cancelled due to the tension over Kashmir.
+
+Sri Lanka[edit]
+No rail links currently exist with Sri Lanka. However the Boat Mail or Indo-Ceylon Express, initially Connected Madras (Chennai Egmore) to Tuticorin (Thothookudi) by train and Tuticorin to Colombo by streamer. Later this link ran in three sections: 1) Madras (Chennai Egmore) to Dhanushkodi Pier by Boat Mail or Indo-Ceylon Express, 2) Dhanushkodi Pier to Talaimannar by Boat, and 3) Talaimannar to Colombo via Yalzhpannam (Jaffna) by train.
+During the 1900s it was a combined train and steamer ferry service between India and Ceylon (now Sri Lanka). Connecting Chennai and Colombo, the system initially utilised a rail-to-sea operation, but changed to a rail-to-sea-to-rail operation. Passengers could buy a single ticket for the journey. At present, it runs from Chennai Egmore to Rameswaram via Villuppuram, Kumbakonam, Trichy, Karaikkudi, Devakottai, Manamadurai, Paramakkudi, Ramanathapuram, Mandapam and Pamban.[120]
+Tuticorin–Colombo: in the late 19th century, the railway portion of the route within India was from Madras (Chennai) to Tuticorin. At Tuticorin, passengers embarked on the boat mail steamer to Colombo in Ceylon. The train took 21 hours and 50 minutes for the journey from Madras to Tuticorin. The Boat Mail was one of the early trains to be given vestibuled carriages, in 1898.[121]
+Dhanushkodi–Talaimannar: in 1914 after the Pamban bridge was built, the train's route changed and it went from Madras to Dhanushkodi. A much shorter ferry service then took the passengers to Talaimannar in Ceylon, from where another train went to Colombo. The 35 kilometres (22 mi) long ferry journey was considerably shorter than the 270 kilometres (170 mi) long Tuticorin-Colombo route.[122][123]
+
+Services[edit]
+Passenger service[edit]
+ Station categories[edit]
+See also: Categorization of Indian Railway stations by commercial importance
+IR categorizes its railway stations by commercial importance into three different categories namely Non Suburban Group (NSG), Suburban Group (SG) and Halt Group (HG). These are further subdivided into subcategories based on their commercial importance (namely from NSG 1 to NSG 6, SG 1 to SG 3 and from HG 1 to HG 3).[124][125] The commercial importance of a station is determined by taking into account its passenger footfall, earnings and strategic importance.[124] These categories are used by IR to decide on and provide the minimum essential amenities required by each station.[126]
+Prior to December 2017, the commercial importance of a station was determined only on the basis of its earnings and as such the stations were categorized into seven categories based on it, namely A1, A, B, C, D, E, and F categories.[125]
+
+ Travel classes[edit]
+Interior of an AC first tier (1A) coach in the Rajdhani Express
+Interior of an AC three tier (3A) coach in the Dakshin Express
+Interior of an Vande Bharat AC Chair class
+Interior of an Anubhuti class (EA) coach in the Shatabdi Express
+Interior of a Sleeper class (SL) coach
+Interior of a Second class (2S) coachMain article: Indian Railways coaching stock
+IR has several classes of travel, with or without air-conditioning. A train may have one or several classes. Slow passenger trains have only unreserved seating, and the Rajdhani Express, Shatabdi Express, Garib Rath Express, Double Decker Express, Tejas Express, Humsafar Express, Duronto Express, Yuva Express, and Vande Bharat Express have only air-conditioned classes. Fares for all classes differ, and unreserved seating is the least expensive. Fares for the Rajdhani, Duronto, Shatabdi and Vande Bharat Express trains include food. In September 2016, IR introduced dynamic fares for the Rajdhani, Duronto and Shatabdi trains (except 1AC and EC classes) to increase revenue.[127] Long-distance trains usually include a pantry car, and food is served at the passengers' berth or seat. Luxury trains (such as Palace on Wheels) have separate dining cars, but these trains cost as much as—or more than—a five-star hotel room.[128]
+A standard passenger rake has four unreserved (general) compartments, two at the front and two at the rear (one of which may be for women). The number of other coaches varies by demand and route. A luggage compartment may be at the front or the rear. On some mail trains, a separate mail coach is attached. Lavatories are communal, and Indian- and Western-style. The classes in operation are (although a train may not have all these classes):
+
+
+
+In service
+
+
+Class[129]
+
+Class Prefix
+
+Description[130][131]
+
+
+Saloon
+
+
+
+IR has started to operate saloon coaches to give hotel ambience on trains. These coaches operate on charter basis i.e. booking is required. These have a master bedroom, one normal bedroom, one kitchen and window trailing. Four to six extra beds are given to accommodate more people.[132] First of these coach was attached to Jammu Mail.[133]
+
+
+AC First Tier (1A)
+
+H
+
+The most luxurious and expensive class of Indian Railways, with fares almost at par with airfares. There are eight cabins (including two coupes) in a full AC first tier coach and three cabins (including one coupe) in a half AC first tier coach. The coach has a dedicated attendant and bedding is included in the fare. This air-conditioned coach, present only on popular routes, can carry 18 (full coach) or 10 passengers (half coach).
+
+
+AC Two Tier (2A)
+
+A
+
+These air-conditioned coaches have sleeping berths across eight bays (full coach). Berths are usually arranged in two tiers in bays of six: four across the width of the coach and two lengthwise across the corridor, with curtains along the corridor. Bedding is included in the fare. A coach can carry 48 (full coach) or 20 passengers (half coach).
+
+
+AC Three Tier (3A)
+
+B
+
+Air-conditioned coaches with 72 sleeping berths. Berths are similar to 2A, but with three tiers across the width and two lengthwise for eight bays of eight. They are slightly less well-appointed, usually with no reading lights or curtains. Bedding is included in the fare.
+
+
+AC Three Economy (3E)
+
+G/M
+
+Air-conditioned coaches with 81 sleeping berths on the Garib Rath Express. Berths are usually arranged as in 3A, but with three tiers across the width and three lengthwise. Appointments are similar to 3A, but bedding is not included. These coaches are also present in some Duronto Express trains as well.
+
+
+Sleeper Class (SL)
+
+S
+
+The sleeper class is the most common coach on IR, with ten or more SL coaches attached to a train rake. They are sleeping coaches with three berths across the width and two lengthwise, without air-conditioning. They carry 72 passengers per coach.
+
+
+Second Class (2S)
+
+D
+
+It is similar to CC, but without air-conditioning. Double-deck second seaters are used on the Flying Ranee. These coaches have three doors on either sides.
+
+
+General Class (II)
+
+UR/GN/GS
+
+The least-expensive accommodation, with a seat not guaranteed. Tickets are valid on any train on a route if used within 24 hours of purchase.
+
+
+Vistadome Class
+
+EV
+
+IR operates Vistadome glass roof coaches on some tourist routes. These include Araku Valley, Konkan Railway, Kalka-Shimla Railway, Mangaluru-Hassan Line, Kashmir Valley, Kangra Valley and Neral-Matheran Route. These coaches' fares are equivalent to AC Executive Chair Car. IR also has plans to start Vistadome on Nilgiri Mountain Railway.[134]
+
+
+Anubhuti Class (EA)
+
+K
+
+Air-conditioned top-end class of Shatabdi Express. These coaches were introduced in January 2018. The first train to get these coaches was the Chennai Central–Mysuru Shatabdi Express.
+
+
+Executive Chair Car (EC)
+
+E
+
+An air-conditioned coach with spacious seats and legroom. With four seats in a row, it is used for intercity day travel and is available on the Tejas, Shatabdi Express and Vande Bharat Express. Also known as First AC Chair Car.
+
+
+AC Chair Car (CC)
+
+C
+
+An air-conditioned coach with five seats in a row, used for intercity day travel. Air-conditioned double-deck coaches are used on the Double Decker Express, Shatabdi Express, Vande Bharat Express, and Intercity services.
+
+
+AC Chair Car Economy (GC)
+
+J
+
+Similar to the AC Chair Car but have three rows of seats on either side of the aisle and three doors on either side of the coach. Usually found in Yuva Express and Garib Rath Express.
+
+
+Phased out or Partially In Service
+
+
+Class[129]
+
+Class Prefix
+
+Description[130][131]
+
+
+First Class (FC)
+
+F/FC
+
+Similar to 1A, but without air conditioning. No bedding is available in this class. The berths are not as wide and spacious as in 1A. However, heritage trains still have this class.
+
+
+
+
+
+
+
+
+At the rear of the train is the guard's cabin. It contains a transceiver, and is where the guard usually gives the all-clear signal before the train departs. The guard's cabin is also called SLR.
+
+Train types[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.Find sources: "Indian Railways" – news · newspapers · books · scholar · JSTOR (April 2018) (Learn how and when to remove this template message)
+Main articles: Train numbering, Named passenger trains, and Longest train services
+Trains are sorted into categories which dictate the number of stops on a route, their priority on the network, and their fare structure. Each express train is identified by a five-digit number. If the first digit in the train number is 1 or 2, they are long-distance express trains. If the first digit is 0, the train is a special train which will operate for a limited period of time with a different fare structure. A first digit of 5 denotes a passenger train.
+The second digit indicates the zone operating the train. However, for high-speed trains, the second digit is either 0 or 2 (the first remains 1 or 2).[135] The third digit denotes the division within the zone which is responsible for maintenance and cleanliness, and the last two digits are the train's serial number.[135] The train numbering system was changed from four digits from December 2010,[136] to accommodate the increasing number of trains.
+Trains traveling in opposite directions along the same route are usually labelled with consecutive numbers.[135] However, there is considerable variation in train numbers; some zones, such as Central Railway, have a less-systematic method of numbering trains.[135]
+Trains are classified by average speed.[137] A faster train has fewer stops (halts) than a slower one, and is usually used for long-distance travel. Most express trains have special names to identify them easily. The names of the trains usually denote the regions they connect, the routes they traverse, or a famous person or tourist spot connected with the train.[138][139]
+
+
+
+Train types
+
+Description
+
+
+Vande Bharat Express
+
+A semi-high-speed, air-conditioned day time journey train with facilities such as Wi-Fi, snack tables, CCTV cameras, hydraulic-pressure doors, and a fire and smoke detection and extinguishing system. It can run at a speed of 200 km/h (120 mph). It is the first semi-high speed (EMU) train set made in India. It was flagged off on 15 February 2019 by Prime Minister Narendra Modi.
+
+
+Gatimaan Express
+
+The first semi-high-speed, air-conditioned train running between Delhi and Jhansi with a top speed of 160 km/h (99 mph)
+
+
+Tejas Express
+
+A semi-high-speed, air-conditioned train which had its inaugural run on 24 May 2017, covering 551.7 km (342.8 mi) in 8 hours 30 minutes. Coaches have bio-vacuum toilets, water-level indicators, tap sensors, hand dryers, integrated Braille displays, an LED TV for each passenger with a phone jack, local cuisine, Wi-Fi, tea and coffee vending machines, magazines, snack tables, CCTV cameras, and a fire and smoke detection and extinguishing system. It can run at a speed of 200 km/h (120 mph) but it is restricted to 130 km/h (81 mph) due to some technical reasons.
+
+
+Rajdhani Express
+
+Limited-stop, air-conditioned trains linking state capitals to the national capital, New Delhi, with a top speed of 130–140 km/h (81–87 mph). The 2014 railway budget proposed increasing the numbers of Rajdhani and Shatabdi Expresses to 180 km/h (110 mph). Indian Railways upgraded rakes on some routes to Tejas coaches thereby being called as Tejas-Rajdhani Express.
+
+
+Shatabdi Express
+
+Air-conditioned, intercity trains for daytime travel. Unlike the Rajdhani or Duronto Expresses, the Shatabdi expresses make a round trip on the same day. The Bhopal Shatabdi Express (train number 12001/12002) is India's second-fastest train between New Delhi and Agra, with an average speed of 90 km/h (56 mph) and a top speed of 150 km/h (93 mph). The limited-stop trains have Wi-Fi.
+
+
+Duronto Express
+
+Non-stop (except for technical halts) service introduced in 2009. In January 2016, it became possible to book tickets from those technical stops. They connect India's metros and major state capitals, and were introduced to equal (or exceed) the speed of the Rajdhani Express. With air-conditioned one-, two-, or three-tier seating, some have non-air-conditioned sleeper-class accommodations.
+
+
+Humsafar Express
+
+Air-conditioned, three-tier coach trains with LED screens displaying information about stations and train speed, a PA system, vending machines for tea and coffee, charging ports for electronic devices, bio-toilets, smoke alarms, CCTV cameras, curtains, and heating and refrigeration facilities for food. Its inaugural run was between Gorakhpur to Anand Vihar Terminal.
+
+
+Double Decker Express
+
+Air-conditioned, limited-stop, two-tier express trains for daytime travel
+
+
+Uday Express
+
+Air-conditioned double decker train for overnight travel.
+
+
+Jan Shatabdi Express
+
+A more-economical version of the Shatabdi Express, with air-conditioned and non-air-conditioned classes and a top speed of 110 km/h (68 mph)
+
+
+Intercity Express
+
+Introduced to connect major cities on short routes with high and semi-high speeds. They start their journey from its origin point and reach its destination and once again return to its origin point in a single day.  Some of the trains include the Deccan Queen, Flying Ranee, Pallavan Superfast Express, Vaigai Superfast Express, Coimbatore Intercity Express and Bilaspur Nagpur Intercity Express.
+
+
+AC Express
+
+Air-conditioned, limited-stop trains linking major cities, with a speed of about 130 km/h (81 mph).
+
+
+Garib Rath Express
+
+Air-conditioned, economy, three-tier trains with a top speed of 130 km/h (81 mph).
+
+
+Yuva Express
+
+Introduced with the Duronto Express to provide air-conditioned travel to young Indians, 60 percent of its seats were reserved for passengers between 18 and 45 years of age. The trains were unsuccessful, and operate only on the Delhi-Howrah and Delhi-Mumbai routes.
+
+
+Sampark Kranti Express
+
+Express service to New Delhi.
+
+
+Kavi Guru Express
+
+Introduced in honor of Rabindranath Tagore, four pairs of the trains operate on the network.
+
+
+Vivek Express
+
+Introduced to commemorate the 150th birth Anniversary of Swami Vivekananda in 2013, four pairs of Vivek Expresses run in the country.
+
+
+Rajya Rani Express
+
+Introduced to connect state capitals to major cities in that state.
+
+
+Mahamana Express
+
+Superfast train with Indian Railways' model rake coaches.
+
+
+Antyodaya Express
+
+Non-reserved, high-speed LHB coach on peak routes to ease congestion.
+
+
+Jan Sadharan Express
+
+Non-reserved express trains on peak routes to ease congestion.
+
+
+Suvidha Express
+
+High priority trains with dynamic pricing on high demand routes.
+
+
+Janata Express
+
+These are series of express trains runs on various routes of Indian Railways. Janata means "common people" in Devanagari.
+
+
+Garib Nawaz Express
+
+These are series of express trains runs on various routes of Indian Railways in the Name of Garib Nawaz Express.
+
+
+Superfast Express
+
+Trains with a max speed greater than 100–110 km/h (62–68 mph) and an average speed greater than 55 km/h (34 mph). With stops at very few stations, the tickets for these trains have a superfast surcharge.
+
+
+Express
+
+Trains with a max speed greater than 100 km/h (62 mph) and an average speed greater than 36 km/h (22 mph), with stops at few stations.
+
+
+Mail
+
+These trains earlier had separate mail coaches. Nowadays, mail is carried in the luggage coach like all other trains and the historical mail trains run as Express train by retaining the "Mail" branding.
+
+
+Passenger
+
+Slow, economical trains which stop at every (or almost every) station on a route. With generally-unreserved seating, these trains travel at about 40–80 km/h (25–50 mph).
+
+
+Link/Slip Express/Passenger
+
+This is a train that gets attached to another train at a particular station and runs together as a single train till destination point or runs together from originating point and gets detached at a particular station. When running together, it is called Link Express/Passenger and when running separately, it is called Slip Express/Passenger.[140]
+
+
+Suburban/Commuter
+
+These trains operate in Mumbai, Delhi, Kolkata, Chennai, Hyderabad, Ahmedabad, Vadodara, Surat, Bengaluru, Pune and between Kanpur and Lucknow, usually stop at every station, and have unreserved seating.
+
+
+Metro
+
+Designed for urban transport, the first metro was the Kolkata Metro in 1984.[141]
+
+
+Mountain Railways
+
+Three of the lines were declared a World Heritage Site as "Mountain Railways of India" by UNESCO.[142]
+
+
+Cross-border railways
+
+International express or passenger train service connecting India and other neighboring countries.
+
+Tourism[edit]
+Indian Railway operates tourist train or coach services on popular tourist circuits in different regions of the country. The service offers tour packages inclusive of rail travel, local transportation, accommodation, food and guided tours. IR offers various tourist services in this segment including Luxury tourist trains, Semi luxury trains, Buddhist special trains, Bharat Darshan trains, Aastha Circuit trains, and Steam trains.[5]
+The Palace on Wheels is a luxury-train service, frequently hauled by a steam locomotive, to promote tourism in Rajasthan.[143] The train has a seven-night, eight-day itinerary on a round trip from New Delhi via Jaipur, Sawai Madhopur and Chittaurgarh, Udaipur, Jaisalmer, Jodhpur, Bharatpur and Agra.
+Royal Rajasthan on Wheels covers a number of tourist destinations in Rajasthan. The seven-day, eight-night tour is a round trip from New Delhi's Safdarjung station via Jodhpur, Udaipur and Chittaurgarh, Ranthambore National Park and Jaipur, Khajuraho, Varanasi and Sarnath, and Agra.[144]
+Maharajas' Express, a luxury train operated by the Indian Railway Catering and Tourism Corporation (IRCTC), runs on five routes[145] to about 12 destinations across northwest and central India (centered around Rajasthan) from October to April.
+The Deccan Odyssey covers tourist destinations in Maharashtra and Goa. Its seven-night, eight-day tour begins in Mumbai and stops at Jaigad Fort, Ganapatipule and Ratnagiri, Sindhudurg, Tarkarli and Sawantwadi, Goa, Kolhapur and Pune (Day 5), Aurangabad and Ellora Caves, and Ajanta Caves and Nashik.[146]
+The Golden Chariot is a luxury train service running on two tours: Pride of the South[147] and Splendor of the South.[148]
+The Mahaparinirvan Express, an air-conditioned service also known as the Buddhist Circuit Train, is run by the IRCTC for Buddhist pilgrims. Its seven-night, eight-day tour begins in New Delhi and visits Bodh Gaya, Rajgir and Nalanda, Varanasi and Sarnath, Kushinagar and Lumbini, Sravasti, and the Taj Mahal.[149]
+The Fairy Queen, a tourist attraction also known as the world's oldest operating steam engine, hauls a luxury train from Delhi to Alwar.
+
+Ticketing[edit]
+See also: Tatkal scheme
+An Indian Railway ticket from Bengaluru to Pune on Lokmanya Tilak Terminus - Coimbatore Express. The ticket is printed in both English and Kannada languages.
+Until the late 1980s, Indian Railways ticket reservations were made manually. In late 1987, IR began using a computerized ticketing system. The system went online in 1995 to provide current information on status and availability. The ticketing network at stations is computerized with the exception of remote areas.  IR now provides multiple channels for passengers to book tickets between any two train stations in the country.
+Reserved tickets may be booked up to 120 days in advance on the Indian Railway Catering and Tourism Corporation website, smartphone apps, SMS, rail reservation counters at train stations, or through private ticket booking counters. A Tatkal train ticket can be booked by passengers who want to travel at short notice with a reserved seat or berth, but such tickets are sold at higher fares than regular advance reservation tickets.[150]
+Confirmed reservation tickets will show the passenger and fare details along with berth or seat number(s) allocated to them on the ticket. If the reservation is not available on a particular train, the ticket has a wait-list number. A person with a wait-listed ticket must wait for enough cancellations to obtain a confirmed ticket. If their ticket is not confirmed on the day of departure, they cannot board the train. Reservation against cancellation tickets, between the waiting and confirmed lists, allow a ticket holder to board the train and obtain a seat chosen by a ticket collector after the collector has found a vacant seat.[130]
+Unreserved tickets for short distance or unplanned travels may be purchased at stations at any time before departure. Holders of such tickets may only board the general compartments. Suburban networks issue unreserved tickets valid for a limited time or season passes with unlimited travel between two stops for a period of time. Commuters can purchase tickets and season passes at stations or through UTS mobile apps.[151] A valid proof for the purchase of ticket along with photo identification is required to board the train.
+India has some of the lowest train fares in the world, and passenger traffic is subsidised by higher-class fares.[152] Discounted tickets are available for senior citizens (over age 60), the differently-abled, students, athletes, and those taking competitive examinations. One compartment of the lowest class of accommodation is earmarked for women on every passenger train. Some berths or seats are also reserved for women or senior citizens.[153]
+
+Freight service[edit]
+The Car Carrier freight train
+See also: Dedicated Freight Corridor Corporation of India
+In the freight segment, IR ferries various commodities and fuels in industrial, consumer, and agricultural segments across the length and breadth of India. IR has historically subsidised the passenger segment with income from the freight business. As a result, freight services are unable to compete with other modes of transport on both cost and speed of delivery, leading to continuous erosion of market share.[154] To counter this downward trend, IR has started new initiatives in freight segments including upgrading of existing goods sheds, attracting private capital to build multi-commodity multi-modal logistics terminals, changing container sizes, operating time-tabled freight trains, and tweaking with the freight pricing/product mix.[155] Also, end-to-end integrated transport solutions such as roll-on, roll-off (RORO) service, a road-rail system pioneered by Konkan Railway Corporation in 1999 to carry trucks on flatbed trailers,[156] is now being extended to other routes across India.
+Perhaps the game changer for IR in the freight segment are the new dedicated freight corridors that are expected to be completed by 2020. When fully implemented, the new corridors, spanning around 3300 km, could support hauling of trains up to 1.5 km in length with 32.5 ton axle-load at speeds of 100 kilometres per hour (62 mph). Also, they will free-up capacity on dense passenger routes and will allow IR to run more trains at higher speeds. Additional corridors are being planned to augment the freight infrastructure in the country.
+
+UNESCO World Heritage Sites[edit]
+Chhatrapati Shivaji Maharaj Terminus
+IR maintains two UNESCO World Heritage Sites: the Chhatrapati Shivaji Maharaj Terminus, Mumbai,[157] and the "Mountain Railways of India".[158] The latter are three rail lines in different parts of India: the Darjeeling Himalayan Railway, a 610 mm (2 ft) narrow-gauge railway in the Lesser Himalayas of West Bengal; the Nilgiri Mountain Railway, a 1,000 mm (3 ft 3+3⁄8 in) metre gauge rack railway in the Nilgiri Hills of Tamil Nadu, and the Kalka-Shimla Railway, a 762 mm (2 ft 6 in) narrow-gauge railway in the Siwalik Hills of Himachal Pradesh.[158]
+
+Railway Grievance and Suggestion Portal[edit]
+In 2019, to tackle and resolve the problems of passengers of Indian Railways, the Ministry launched a portal named RailMadad. According to Railway Minister Ashwini Vaishnaw in a written reply to a question in Rajya Sabha in 2021, all complaints have been resolved within 72 hours and people gave a satisfactory feedback.[159]
+
+Commemorative stamps[edit]
+Stamps released by India Post (by year) -
+
+
+
+
+
+1966
+
+
+
+
+
+
+1982
+
+
+
+
+
+
+1998
+
+
+
+
+
+
+2002
+
+
+
+
+
+
+2003
+
+
+
+
+
+
+2005
+
+
+
+
+
+
+2013
+
+
+
+
+
+
+2019
+
+
+
+
+See also[edit]
+List of railway stations in India
+List of railway companies in India
+High-speed rail in India
+Urban rail transit in India
+Future of rail transport in India
+Amrit Bharat Station Scheme
+List of railway accidents and incidents in India
+Notes[edit]
+
+
+^ This classification system does not apply to steam locomotives, which retained their original class names (such as M class or WP class).
+
+
+References[edit]
+
+
+^ a b "[IRFCA] Indian Railways FAQ: IR History: Early Days – 1". www.irfca.org. Archived from the original on 7 March 2005. Retrieved 3 January 2014.
+
+^ Smith, John Thomas (1839). "Reports, Correspondence and Original Papers on Various Professional Subjects Connected with the Duties of the Corps of Engineers, Madras Presidency".
+
+^ "Suneet Sharma Appointed New Chairman and CEO of Railway Board". News18. 31 December 2020.
+
+^ a b "Indian Railways". pib.gov.in. Retrieved 5 May 2023.
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y "Indian Railways Year Book 2020–21" (PDF).
+
+^ a b c "Railway Electrification as on 01_04_23" (PDF). indianrailways.gov.in. Retrieved 22 April 2023.
+
+^ a b "Indian Railways Year Book 2021 - 22" (PDF).
+
+^ Roy, Debasish. "Why isn't the Railways a PSU?". The Economic Times. Retrieved 23 August 2020.
+
+^ "Centre: A total of 56,248 route kilometres of Indian Railways Broad Gauge network had been completed by railway electrification till last month", News On AIR, 15 March 2023
+
+^ "Railways registers highest ever freight loading in FY 2021-22". Business Standard India. Press Trust of India. 2 April 2022. Retrieved 28 May 2022.
+
+^ a b "Thumbs up! Indian Railways to go eco-friendly by becoming world's 1st 100% electrified and 'Net-Zero' railway". TheFinancial Express. 16 October 2019. Retrieved 20 November 2019.
+
+^ a b c "[IRFCA] India's First Railways". www.irfca.org.
+
+^ Smith, John Thomas (1839). Reports, Correspondence and Original Papers on Various Professional Subjects Connected with the Duties of the Corps of Engineers, Madras Presidency. R. Twigg.
+
+^ "164 Years Ago On This Day, India's First Train Ran From Mumbai To Thane". 16 April 2017. Archived from the original on 29 July 2017. Retrieved 24 July 2017.
+
+^ "India's 1st train: When Sahib, Sindh & Sultan blew steam – Times of India". The Times of India. 25 April 2013. Archived from the original on 8 August 2017. Retrieved 24 July 2017.
+
+^ "Extracts from the Railway Times". Railway Times. 1854. Retrieved 1 January 2019.
+
+^ "Legacy of First Railway Station of South India". RailNews Media India Ltd. Archived from the original on 29 July 2017. Retrieved 24 July 2017.
+
+^ "Kolkata's trams – A ride through history". 2 March 2016. Archived from the original on 29 July 2017. Retrieved 24 July 2017.
+
+^ "The Evolution of Trams in Mumbai". The Urban Imagination – Faculty of Arts and Sciences. Harvard University. Archived from the original on 11 October 2017. Retrieved 18 May 2018.
+
+^ Ifthekhar, JS. "The wheel comes full circle..." Telangana Today.
+
+^ Jaganath, Dr Santosh. The History of Nizam's Railways System. Lulu.com. ISBN 978-1-312-49647-7.
+
+^ "Welcome to Official Website of CORE". www.core.indianrailways.gov.in. Archived from the original on 7 August 2017. Retrieved 26 July 2017.
+
+^ Pioneer, The. "Keeping track of railway history". The Pioneer. Retrieved 13 October 2023.
+
+^ "History of Railways". www.kportal.indianrailways.gov.in. Archived from the original on 21 July 2017. Retrieved 24 July 2017.
+
+^ "Welcome to Indian Railway Passenger Reservation Enquiry" (PDF). Archived (PDF) from the original on 19 March 2015. Retrieved 13 January 2016.
+
+^ "160 years of Indian Railways: Here's how AC trains were kept cool". 2 April 2013.
+
+^ "Strike of Indian Rail Workers Begins". The New York Times. 8 May 1974. ISSN 0362-4331. Retrieved 29 March 2020.
+
+^ "Better jail than rail: George Fernandes' slogan that led to Asia's biggest railway strike in 1974". The New Indian Express. Archived from the original on 29 March 2020. Retrieved 29 March 2020.
+
+^ "IT Audit of Indian Railways Passenger reservation System (2007)" (PDF). Archived (PDF) from the original on 12 July 2017. Retrieved 24 July 2017.
+
+^ "Shatabdi Express – Shatabdi Express Train, Shatabadi Express Timetable, Shatabadi Express Schedule Booking India". www.iloveindia.com. Archived from the original on 15 July 2017. Retrieved 24 July 2017.
+
+^ "Happy Birthday Indian Railways! First passenger train started 165 years ago; unknown facts about the network". 16 April 2018. Archived from the original on 28 May 2018. Retrieved 27 May 2018.
+
+^ "Indian Railway". www.indianrailways.gov.in. Archived from the original on 24 July 2017. Retrieved 24 July 2017.
+
+^ "IRCTC Next Generation eTicketing System". www.irctc.co.in. Archived from the original on 24 July 2017. Retrieved 24 July 2017.
+
+^ "Have I Been Pwned: Pwned websites". haveibeenpwned.com. Retrieved 27 June 2023.
+
+^ a b "48 per cent rail tracks electrified, aim to double it in 5 years: Govt". 31 March 2017. Archived from the original on 18 July 2017. Retrieved 24 July 2017.
+
+^ "Indian Railways cancels passenger train services". Business Traveller. Retrieved 29 March 2020.
+
+^ HP, Akarsh (22 March 2020). "Indian Railways Suspends All Passenger Trains But There's Some Good News". MetroSaga. Archived from the original on 28 March 2020. Retrieved 29 March 2020.
+
+^ Miller, Adam Jeffery, Hannah (26 March 2020). "Coronavirus puts over 1 billion people in India on 21-day lockdown to combat spread". CNBC. Retrieved 29 March 2020.{{cite web}}:  CS1 maint: multiple names: authors list (link)
+
+^ Nandi, Tamal (27 March 2020). "How Indian Railways continuing its freight operations post lockdown". Livemint. Retrieved 30 March 2020.
+
+^ Nandi, Shreya (29 March 2020). "Covid-19: Railways resumes parcel trains to transport essential goods". Livemint. Retrieved 30 March 2020.
+
+^ "Coronavirus Outbreak: Indian Railways converts non-AC train coach into isolation ward on trial basis". Firstpost. 28 March 2020. Retrieved 30 March 2020.
+
+^ a b "GE, Alstom land $5.6-billion deals to supply locomotives for railways". Economic Times. 10 November 2015. Archived from the original on 12 November 2015. Retrieved 13 November 2015.
+
+^ "Diamond quadrilateral of high-speed trains – A Dastidar, Indian Express, 10 June 2014". 10 June 2014. Archived from the original on 13 August 2017. Retrieved 22 June 2017.
+
+^ "India to sign deal with Japan to get first bullet train – The Hindu". The Hindu. 8 December 2015. Archived from the original on 2 August 2017. Retrieved 22 June 2017.
+
+^ "India Said to Pick Japan for High-Speed Rail Project – WSJ". Archived from the original on 18 May 2017. Retrieved 22 June 2017.
+
+^ Railways appoints IRSDC as nodal agency for station redevelopment Archived 23 December 2017 at the Wayback Machine, Livemint, 5 December 2017.
+
+^ a b c d Indian Railways orders conversion to Broad Gauge Archived 23 December 2017 at the Wayback Machine, Rail Digest, 12 April 2017.
+
+^ "Indian Railways gets first model rake of luxury 'Make in India' coaches". The Economic Times. Bennett, Coleman & Co. Ltd. 11 January 2016. Archived from the original on 14 January 2016. Retrieved 13 January 2016.
+
+^ "Indian Railways unveils 'Make in India' train coaches with new look". The Financial Express. The Indian Express Group. 13 January 2016. Archived from the original on 15 January 2016. Retrieved 13 January 2016.
+
+^ "Just like your cabs, you can soon track trains in real time via GPS | Latest News & Updates at Daily News & Analysis". DNA India. 30 November 2017. Archived from the original on 2 December 2017. Retrieved 30 November 2017.
+
+^ Rain Water Harvesting System In Indian Railway Archived 23 December 2017 at the Wayback Machine, 7 December 2016.
+
+^ India Plants 50 Million Trees in One Day, Smashing World Record Archived 23 December 2017 at the Wayback Machine, National Geographic, July 2016.
+
+^ "India's first solar-powered DEMU train launched". The Hindu. Archived from the original on 26 July 2018. Retrieved 23 July 2017.
+
+^ Railways, IIT-Madras tie up to power AC coaches with solar energy. The Times of India (5 August 2013). Retrieved on 17 August 2013.
+
+^ Eldredge, Barbara (19 July 2017). "India's new solar-powered train is the first in the world". Curbed. Archived from the original on 23 December 2017.
+
+^ "Rail coaches with rooftop solar". Archived from the original on 26 July 2018. Retrieved 26 July 2018.
+
+^ "Northern Railways to Install 5 MW Rooftop Solar in Four of Its Stations". Archived from the original on 3 March 2017. Retrieved 3 March 2017.
+
+^ "Target of installing LED lights at all stations achieved, says Railways". Press Trust of India. 31 March 2018 – via Business Standard.
+
+^ "Locomotive Factories in Bihar: In cold storage for years, two Railway projects to start soon". Indian Express. 30 October 2015. Archived from the original on 31 October 2015. Retrieved 31 October 2015.
+
+^ "GE Gets $2.6 Billion Indian Railways Contract". The Wall Street Journal. 9 November 2015. Archived from the original on 9 November 2015. Retrieved 9 November 2015.
+
+^ "Rail ministry awards Rs 14,656-cr Marhowra locomotive project to GE". Business Standard. 9 November 2015. Archived from the original on 12 November 2015. Retrieved 9 November 2015.
+
+^ All unmanned level crossings (UMLCs) on Broad Gauge (BG) have been eliminated on 31st Jan 2019. Archived 11 June 2016 at the Wayback Machine, 12 May 2016.
+
+^ "Indian Railways develops Automatic Fire and Smoke Detection System". Archived from the original on 8 September 2013. Retrieved 5 September 2013.
+
+^ "Railways issues 'restoration plan', asks to prepare for resumption of services". Livemint. 4 April 2020.
+
+^ "Full list of special trains that will run from tomorrow". Indian Express. 11 May 2020. Retrieved 12 May 2020.
+
+^ Dash, Dipak K. (3 July 2020). "Private companies to run trains by April 2023". The Times of India. Retrieved 3 July 2020.
+
+^ "Indian Railways Finally Seeks Private Money to Run Trains. What It Means". NDTV.com. Retrieved 3 July 2020.
+
+^ "151 Trains proposed to be run by Private operators once the selection process is over, would be OVER and ABOVE the already existing trains". pib.gov.in.
+
+^ "World's highest, Chenab rail bridge to connect Kashmir with rest of India by 2022 | News - Times of India Videos". The Times of India.
+
+^ Singh, Vijay Pratap (27 February 2010). "SMS complaint system: A Northern Railway brainwave spreads". Indian Express. Retrieved 19 January 2012.
+
+^ Indian Railways Facts and Figures (2011–2012). Ministry of Railways, Government of India. 2012. p. personnel. Archived from the original on 14 October 2013. Retrieved 21 July 2013.
+
+^ "Zones and their Divisions in Indian Railways" (PDF). Indian Railways. Archived from the original (PDF) on 19 March 2015. Retrieved 26 August 2011.
+
+^ "Railway Board Directorates". Indian Railway Establishment Code. Indian Railways. Archived from the original on 30 May 2012.
+
+^ "A major change in the recruitment system of Indian Railways: IRMS". vajiramandravi.com. Retrieved 10 January 2023.
+
+^ "Indian Railways Establishment Manual". rrcb.gov.in. Archived from the original on 25 May 2012.
+
+^ "RRB NTPC exam 2016". indianexpress.com. 19 May 2016. Archived from the original on 20 July 2016.
+
+^ "India's first CNG train flagged off". Archived from the original on 26 February 2015. Retrieved 26 February 2015.
+
+^ "New Technology allows Railways to save Rs 20 Lakhs Diesel per Engine". Archived from the original on 8 September 2013. Retrieved 6 September 2013.
+
+^ "Circular by Ministry of Railways" (PDF). 4 July 2003 – via Railway Board.
+
+^ "Guards Documents".
+
+^ "SAIL-RITES BENGAL WAGON INDUSTRY PRIVATE LIMITED". www.srbwipl.com. Retrieved 15 October 2023.
+
+^ Railways, Ministry of (25 January 2018). "End of an Era - The historic last ICF Coach was flagged off by Senior Techcnician Shri Bhaskar P in the presence of Railway Board Chairman Shri @AshwaniLohani. The 1st ICF coach had been flagged by Prime Minister Shri Lal Bahadur Shastri on 2 October, 1955.pic.twitter.com/qCfl8tVrQy". @railminindia. Archived from the original on 26 July 2018. Retrieved 27 February 2018.
+
+^ "After spate of accidents, Indian Railways speeds up safety plan; check out the massive task and big numbers involved". The Financial Express. 7 September 2017. Archived from the original on 28 February 2018. Retrieved 27 February 2018.
+
+^ "Indian Railways Passenger Coaches: Safety Features and Technologies Adopted" (PDF). International Journal of Engineering Technology Science and Research. April 2017. Archived (PDF) from the original on 28 February 2018. Retrieved 27 February 2018.
+
+^ "At 176 Kmph, These Two Upcoming Trains May Be India's Fastest Ever!". The Better India. 22 January 2018. Archived from the original on 28 February 2018. Retrieved 27 February 2018.
+
+^ "Loco hauled commuter trains to be replaced with DEMU/MEMU – Times of India". The Times of India. Archived from the original on 26 February 2018. Retrieved 25 February 2018.
+
+^ "Mumbai local passengers cheer! Indian Railways introduces swanky new 'Uttam' rake; know features". 6 November 2019.
+
+^ a b c "Brief on Railway Electrification". Archived from the original on 26 September 2015. Retrieved 1 November 2016.
+
+^ a b "Railway Electrification Market in India 2018". Enincon. 20 February 2018. Archived from the original on 20 March 2018. Retrieved 20 March 2018.
+
+^ "Railway Electrification Market in India 2018" (PDF). Enincon. 20 February 2018. Archived (PDF) from the original on 20 March 2018. Retrieved 20 March 2018.
+
+^ "Art of the token exchange". Railscapes. 25 July 2017. Archived from the original on 28 February 2018. Retrieved 28 February 2018.
+
+^ "Signalling System". IRFCA.org. Indian Railways Fan Club. Retrieved 4 June 2007.
+
+^ "[IRFCA] Indian Railways FAQ: Signal Aspects and Indications – Principal Running Signals". www.irfca.org. Retrieved 28 February 2018.
+
+^ "Indian Railways clears proposal to equip electric locomotives with European train protection systems". Tech2. 18 December 2017. Archived from the original on 3 February 2018. Retrieved 28 February 2018.
+
+^ "Bandhan Express, New Train Between Bengal And Bangladesh: 10 Facts". NDTV.com. Archived from the original on 16 November 2017. Retrieved 16 November 2017.
+
+^ "Bandhan Express makes its first commercial run between Kolkata and Khulna today". The Indian Express. 24 November 2019. Archived from the original on 16 November 2017. Retrieved 16 November 2017.
+
+^ "mitali express: New Jalpaiguri-Dhaka Mitali Express flagged off | India News - Times of India". The Times of India. 1 June 2022. Retrieved 2 June 2022.
+
+^ Das, Koushik. "Construction Work Of New India-Bangladesh Railway Link To Begin In 2015". InSerbia News. Archived from the original on 9 September 2014. Retrieved 26 August 2014.
+
+^ "Work on new India-Bangladesh railway link from 2015-INews – IBNLive Mobile". IBNlive. 18 June 2014. Archived from the original on 6 October 2014. Retrieved 26 August 2014.
+
+^ "Indian Railway to build a 15-km track linking Agartala with Bangladesh". Archived from the original on 6 October 2014. Retrieved 26 August 2014.
+
+^ "Work on Agartala-Akhaura rail link to commence soon". The Times of India. 18 June 2014. Archived from the original on 6 October 2014. Retrieved 26 August 2014.
+
+^ "Work on new India-Bangladesh railway link from 2015". The Times of India. 17 June 2014. Archived from the original on 18 July 2014. Retrieved 26 August 2014.
+
+^ "India, Bangladesh align rail link in Tripura". Meghalaya Times. Archived from the original on 6 October 2014. Retrieved 26 August 2014.
+
+^ "Bhutan to get first railway station; rail-link to India". 18 October 2009. Retrieved 19 November 2021.
+
+^ a b c "Survey completed for first ever Bhutan-India rail link from West Bengal to Samtse and construction to start within a year". Retrieved 19 November 2021.
+
+^ "India-Bhutan rail link soon! Indian Railways commissions survey to set up Mujnai-Nyoenpaling line; details". Retrieved 19 November 2021.
+
+^ a b "India's rail-building challenge". By Sudha Ramachandran. Asia Times. 3 January 2007. p. 2. Archived from the original on 4 January 2007. Retrieved 16 April 2009.{{cite news}}:  CS1 maint: unfit URL (link)
+
+^ a b c "India signs trans-Asian railways pact". Indo-Asian News Service. 2 July 2007. p. 1. Retrieved 16 April 2009.
+
+^ Katiyar, Prerna. "How poor rail connectivity is acting as a hindrance to India's Act East policy". The Economic Times. Retrieved 19 November 2021.
+
+^ "Nepalese Railway and Economic Development: What Has Gone Wrong?". 11 June 2020. Retrieved 19 November 2021.
+
+^ "India-Nepal Rail Services Agreement" (PDF). 21 May 2004. Retrieved 19 November 2021.
+
+^ "New 136-km Raxaul-Birganj-Kathmandu Rail Line Costing Rs 16,550 Crore Could Soon be Reality". 18 December 2019. Retrieved 19 November 2021.
+
+^ "Nepal Railway Receives Two ICF-Made DEMUs From Konkan Railway". 21 September 2020. Retrieved 19 November 2021.
+
+^ "Jaynagar-Kurtha Railway brings modernization in Nepal's railway connection, says Nepal Minister". Retrieved 19 November 2021.
+
+^ "India Hands Over Jaynagar-Kurtha Cross-Border Rail Link To Nepal". Retrieved 19 November 2021.
+
+^ "A new train last year was welcomed with much fanfare. It never ran". Retrieved 19 November 2021.
+
+^ "Jayanagar-Kurtha rail service: All seats occupied on first day of its operation". Retrieved 15 March 2023.
+
+^ "Indo-Nepal Jaynagar -Kurtha BG rail link done; to be extended to Bijalpur by March 2021". 17 January 2021. Retrieved 19 November 2021.
+
+^ "RCON invites tender for civil works at Biratnagar Station on Jogbani (India) to Biratnagar (Nepal) Railway Line". Retrieved 19 November 2021.
+
+^ Famous Trains
+
+^ "trains-worldexpresses.com". www.trains-worldexpresses.com.
+
+^ "India-Sri Lanka ferry service to take off soon: Union minister". The New Indian Express.
+
+^ "Forest clearance sought to revive 'Boat Mail' rail link". The New Indian Express.
+
+^ a b "Minister of Railways directs to re-categorize railway stations taking into account earnings, passenger footfall, strategic importance". Retrieved 18 October 2021.
+
+^ a b Railways revise station categories to improve services Archived 17 March 2018 at the Wayback Machine, Economic Times, 28 December 2017.
+
+^ "Question and Answer regarding Grading of Railway Stations in Lok Sabha of India" (PDF). 18 July 2018. Retrieved 26 September 2020.
+
+^ "Premium railway fares hiked up to 50 per cent in new dynamic pricing model". 8 September 2016. Archived from the original on 9 September 2016. Retrieved 8 September 2016.
+
+^ Eman, Borhan (20 June 2017). "Indian railway ready for 'privatization to run trains'! Meramaal Wiki". Meramaal News. Retrieved 5 July 2019.
+
+^ a b "Accommodation Classes in Indian Railways". Indian Railways. Archived from the original on 26 April 2017. Retrieved 15 November 2016.
+
+^ a b c "General Information on travelling by IR". IRFCA.org. Indian Railways Fan Club. Retrieved 3 June 2007.
+
+^ a b "Class of Travel". indiarail.co.uk. S.D. Enterprises Ltd. Archived from the original on 13 May 2007. Retrieved 3 June 2007.
+
+^ "Home on Wheels - Luxury Train Travel in an Exclusive Railway Saloon". www.indianluxurytrains.com.
+
+^ "Ready to shell out more! Now you can travel in Railways' luxury saloons - Jammu Mail". The Economic Times.
+
+^ "ICF to design air-conditioned coach for Nilgiri Mountain Railway | Chennai NYOOOZ". NYOOOZ.
+
+^ a b c d "The system of train numbers". IRFCA.org. Indian Railways Fan Club. Retrieved 3 June 2007.
+
+^ "New Train Number Enquiry". Indian Railways Passenger Reservation Inquiry. Centre For Railway Information Systems. Archived from the original on 24 November 2010. Retrieved 5 February 2011.
+
+^ "railway operations — I". IRFCA.org. Indian Railways Fan Club. Retrieved 11 June 2007.
+
+^ "Train names". IRFCA.org. Indian Railways Fan Club. Retrieved 3 June 2007.
+
+^ Sekhsaria, Pankaj (24 June 2005). "What's in a Train Name?". The Hindu Business Line. Archived from the original on 8 June 2007. Retrieved 4 June 2007.
+
+^ "Indian Railways to Discontinue Link Express, Slip Coaches to Save Travel Time". News18. 18 September 2021. Retrieved 19 September 2021.
+
+^ "India's first underwater metro nears completion after costs double". The Economic Times. 29 January 2020. Retrieved 19 May 2020.
+
+^ "Toy Trains of India". Our Trips – Royal Train Tours. India Calling Tours (P) Limited. Archived from the original on 8 August 2007. Retrieved 12 May 2007.
+
+^ "NPalace on wheels – Exclusive Indian train was originally used by royalty". Times of India. 13 October 2012. Archived from the original on 17 October 2012.
+
+^ "Royal Rajasthan on Wheels Itinerary | Tour Program for 2014–15". Royalsrajasthanonwheels.com. Archived from the original on 31 March 2014. Retrieved 27 April 2014.
+
+^ "The Maharajas' Express Train Journeys Season 2014–2015". The-maharajas.com. Archived from the original on 28 February 2014. Retrieved 27 April 2014.
+
+^ "Ministry of Railways (Railway Board)". Archived from the original on 5 November 2013. Retrieved 26 January 2014.
+
+^ "Tour Itinerary – Tour Itinerary of Golden Chariot Train, Itinerary of Golden Chariot Train". Goldenchariottrain.com. Archived from the original on 14 April 2014. Retrieved 27 April 2014.
+
+^ "Southern Splendour Tour – South India Tour and South India Tour Package". Goldenchariottrain.com. Archived from the original on 14 April 2014. Retrieved 27 April 2014.
+
+^ "Ministry of Railways (Railway Board)". Indianrailways.gov.in. Archived from the original on 10 April 2014. Retrieved 27 April 2014.
+
+^ "Tatkal Ticket Booking: Charges, timings, cancellation and more – Times of India". The Times of India. Archived from the original on 12 June 2018. Retrieved 2 March 2018.
+
+^ "UTS Mobile Ticketing". www.utsonmobile.indianrail.gov.in. Archived from the original on 8 January 2015. Retrieved 2 March 2018.
+
+^ Joshi, V; I. M. D. Little (17 October 1996). "Industrial Policy and Factor Markets". India's Economic Reforms, 1991–2001. US: Oxford University Press. p. 184. ISBN 0-19-829078-0. Retrieved 25 June 2007.
+
+^ "Reservation Rules". Indian Railways. Archived from the original on 24 June 2007. Retrieved 25 June 2007.
+
+^ "Indian Railways White Paper 2016" (PDF). 25 February 2018. Archived (PDF) from the original on 26 February 2018.
+
+^ "INDIAN RAILWAYS 2017–2019 VISION & PLANS" (PDF). 25 February 2018. Archived (PDF) from the original on 18 November 2017.
+
+^ "Road-Rail Synergy System". Press release, Press Information Bureau, dated 2004-20-05. Archived from the original on 5 June 2011. Retrieved 22 December 2008.
+
+^ "Chhatrapati Shivaji Maharaj Terminus (formerly Victoria Terminus)". World Heritage List. World Heritage Committee. 2004. Archived from the original on 19 December 2008. Retrieved 5 January 2009.
+
+^ a b "Mountain Railways of India". World Heritage List. World Heritage Committee. 1999. Archived from the original on 19 December 2008. Retrieved 5 January 2009.
+
+^ "Indian Railways launches a one-stop complaint portal named 'Rail Madad'". LiveMint. Retrieved 12 August 2021.
+
+
+Further reading[edit]
+
+Aguiar, Marian. Tracking Modernity: India's Railway and the Culture of Mobility  (University of Minnesota Press; 2011) 226 pages; draws on literature, film, and other realms to explore the role of the railway in the Indian imagination. excerpt and text search
+Bear, Linda. Lines of the Nation: Indian Railway Workers, Bureaucracy, and the Intimate Historical Self (2007)  excerpt and text search
+Hurd, John, and Ian J. Kerr. India’s Railway History: A Research Handbook (Brill: 2012), 338pp
+Kerr, Ian J. Railways in Modern India (2001) excerpt and text search
+Kerr, Ian J. Engines of Change: The Railroads That Made India (2006)
+Kumar, Sudhir, and Shagun Mehrotra. Bankruptcy to Billions: How the Indian Railways Transformed Itself (2009)
+Macpherson, W. J. "Investment in Indian Railways, 1845-1875." Economic History Review, 8#2, 1955, pp. 177–186 online
+IRCTC launched e-catering services in 2014, with authorized partners including Comesum, Domino's, OvenStory, Zoop, Relfood, Faasos, and partner restaurants which allowed passengers to order food online or through phone call and food delivered to their seats.
+"IRFCA : FAQ - Table of Contents". Indian Railways Fan Club. Retrieved 19 June 2005.
+"IRCTC". Indian Railways. Retrieved 19 June 2005.
+
+External links[1][edit]
+
+
+
+Wikimedia Commons has media related to Indian Railways.
+
+
+
+
+Wikiquote has quotations related to Indian Railways.
+
+Listen to this article (22 minutes)
+This audio file was created from a revision of this article dated 15 March 2006 (2006-03-15), and does not reflect subsequent edits.(Audio help · More spoken articles)
+Official Website
+eTicket Reservation
+Glossary
+amrit bharat station scheme Archived 13 July 2023 at the Wayback Machine
+vte Indian RailwaysAuthority
+Ministry of Railways
+Rail Bhavan
+Related organisations
+COFMOW
+CORE
+CRIS
+CRS
+CCI
+DFCCIL
+HSRI
+IRCTC
+IRFC
+IRSDC
+IRCON
+KRC
+MRVC
+NHSRCL
+PAC
+RITES
+RLDA
+RVNL
+RailTel
+RPF
+RRCB
+RSPB
+RDSO
+Zones
+Central
+East Central
+East Coast
+Eastern
+North Central
+North Eastern
+North Western
+Northeast Frontier
+Northern
+South Central
+South Coast
+South East Central
+South Eastern
+South Western
+Southern
+West Central
+Western
+Metro Railway, Kolkata
+Rolling stock
+Indian Railways coaching stock
+Wagon numbering system in India
+Locomotives of India
+Multiple units of India
+ICF coach
+LHB coach
+Manufacturingunits
+BEML Limited
+Bharat Heavy Electricals Limited
+Bharat Wagon and Engineering
+Braithwaite & Co.
+Burn Standard Company
+Banaras Locomotive Works
+Chittaranjan Locomotive Works
+Diesel Locomotive Factory
+Patiala Locomotive Works
+Electric Locomotive Factory
+Integral Coach Factory
+Modern Coach Factory
+Rail Coach Factory, Kapurthala
+Rail Coach Factory, Sonipat
+Rail Wheel Factory
+Rail Wheel Plant
+Titagarh Wagons
+RailwaydepotsDiesel
+Abu Road
+Agra
+Andal
+Bandra Marshalling Yard
+Bhagat Ki Kothi
+Bokaro Steel City
+Bondamunda
+Burdwan
+Dr.Ambedkar Nagar
+Ernakulam
+Erode
+Golden Rock
+Gooty
+Guntakal
+Gwalior
+Howrah
+Hubli
+Itarsi
+Izzatnagar
+Jamalpur
+Jhansi
+Kalyan
+Kazipet
+Kharagpur
+Krishnarajapuram
+Kurla
+Lucknow
+Ludhiana
+Malda Town
+Maula Ali
+Neral
+Patratu
+Phulera
+Pandit Deen Dayal Upadhyaya Nagar
+Raipur
+Sabarmati
+Samastipur
+Shakurbasti
+Siliguri
+Tondiarpet
+Tughlakabad
+Vatva
+Visakhapatnam
+Electric
+Ajni
+Angul
+Arakkonam
+Asansol
+Bhilai
+Bhusawal
+Bokaro Steel City
+Bondamunda
+Erode
+Ghaziabad
+Gomoh
+Gonda
+Howrah
+Itarsi
+Jhansi
+Kanpur
+Kalyan
+Kazipet
+Khanalampura
+Lallaguda
+Ludhiana
+New Katni
+Pandit Deen Dayal Upadhyaya Nagar
+Royapuram
+Tatanagar
+Tuglakabad
+Vadodara
+Valsad
+Vijayawada
+Visakhapatnam
+MEMU
+Asansol
+Bhilai
+Kanpur
+Kollam
+Palakkad
+Rajahmundry
+Vadodara
+EMU
+Avadi
+Bandel
+Barasat
+Ghaziabad
+Gholsapur
+Howrah
+Kalwa
+Kandivali
+Kharagpur
+Kurla
+Maula Ali
+Mumbai Central
+Panskura
+Rajamahendravaram
+Sanpada
+Narkeldanga
+Ranaghat
+Shakurbasti
+Sonarpur
+Tambaram
+Tikiapara
+Velachery
+Virar
+Metro (Kolkata)
+Noapara
+Tollygunge
+New Garia
+Central Park
+Joka
+Main lines andsuburban linesMain rail lines
+Howrah–Prayagraj–Mumbai
+Howrah–Nagpur–Mumbai
+Howrah–Chennai
+Howrah–Delhi
+Howrah–Gaya–Delhi
+Mumbai–Chennai
+New Delhi–Chennai
+New Delhi–Mumbai
+Suburban rail
+Chennai MRTS
+Chennai Suburban
+Delhi Suburban
+Pune Suburban
+Hyderabad MMTS
+Kolkata Suburban
+Mumbai Suburban
+Passenger trains (List)Semi-high speed
+Gatimaan Express
+Tejas Express
+Tejas-Rajdhani Express
+Vande Bharat Express
+Other premium
+AC Express
+AC Double Decker Express (Uday Express)
+Duronto Express
+Garib Rath Express
+Humsafar Express
+Mahamana Express
+Rajdhani Express
+Shatabdi Express
+Non-AC unreserved
+Antyodaya Express
+Jan Sadharan Express
+Jan Shatabdi Express
+Other
+Amrit Bharat Express
+Express trains
+Passenger trains
+Suburban trains
+MEMU
+Luxury
+Deccan Odyssey
+Fairy Queen
+Golden Chariot
+Mahaparinirvan Express
+Maharajas' Express
+Palace on Wheels
+Ramayana Express
+Royal Orient
+Royal Rajasthan on Wheels
+Village on Wheels
+Special
+Lifeline Express
+Promotion on Wheels
+Red Ribbon Express
+Science Express
+Future services
+Bullet trains
+Hyperloop
+Mumbai Maglev
+Traininginstitutes
+Indian Railways Institute of Civil Engineering
+Indian Railways Institute of Electrical Engineering
+Indian Railways Institute of Mechanical and Electrical Engineering
+Indian Railways Institute of Signal Engineering and Telecommunications
+Indian Railways Track Machine Training Center
+National Academy of Indian Railways
+National Rail and Transportation Institute
+Jagjivan Ram Railway Protection Force Academy
+Trade unions
+All India Railwaymen's Federation
+All India Station Masters' Association
+Konkan Railway Corporation Employees Union
+Related articles
+Anti-collision device
+Last vehicle board
+Railway budget of India
+Railway schools in India
+Train Warning System
+
+ Category
+
+vte Urban rail transit in IndiaSuburbanrailOperational
+Chennai Suburban Railway
+Delhi Suburban Railway
+Hyderabad Multi-Modal Transport System
+Kolkata Suburban Railway
+Lucknow
+Barabanki–Lucknow Suburban Railway
+Lucknow–Kanpur Suburban Railway
+Mumbai Suburban Railway
+Pune Suburban Railway
+Underconstruction
+Bengaluru Suburban Railway
+Delhi–Meerut Regional Rapid Transit System
+Planned
+Ahmedabad Suburban Railway
+Nagpur broad-gauge Metro
+Proposedsemi-high speed
+Delhi–Alwar Regional Rapid Transit System
+Delhi–Sonipat–Panipat Regional Rapid Transit System
+RapidtransitOperational
+Ahmedabad Metro
+Chennai Metro
+Delhi Metro
+Hyderabad Metro
+Jaipur Metro
+Kanpur Metro
+Kochi Metro
+Kolkata Metro
+Lucknow Metro
+Mumbai Metro
+ Namma Metro (Bangalore)
+Nagpur Metro
+Noida Metro
+Pune Metro
+Rapid Metro Gurgaon
+Underconstruction
+Agra Metro
+Bhoj Metro (Bhopal)
+Indore Metro
+Navi Mumbai Metro
+Patna Metro
+Surat Metro
+Planned
+Bhubaneswar Metro
+Chandigarh Metro
+Coimbatore Metro
+Gorakhpur Metro
+Guwahati Metro
+Jabalpur Metro
+Ludhiana Metro
+Meerut Metro
+Varanasi Metro
+Proposed
+Bareilly Metro
+Greater Gwalior Metro
+Jammu Metro
+Ranchi Metro
+Srinagar Metro
+Thane Metro
+Madurai Metro
+MonorailOperational
+Mumbai Monorail
+Planned
+Chennai Monorail
+Proposed
+Aizawl Monorail
+Bengaluru Monorail
+Bhubaneswar Monorail
+Indore Monorail
+Kanpur Monorail
+Kolkata Monorail
+Patna Monorail
+Pune Monorail
+Tiruchirappalli Monorail
+Warangal Monorail
+MetrolitePlanned
+Delhi Metrolite
+Gorakhpur Metro
+Greater Nashik Metro
+Kolkata Light Rail Transit
+Kozhikode Light Metro
+Thiruvananthapuram Light Metro
+Proposed
+Prayagraj Metro
+Visakhapatnam Metro
+Uttarakhand Metro
+TramOperational
+Kolkata Tram
+Defunct
+Bhavnagar Tram
+Chennai Tram
+Delhi Tram
+Kanpur Tram
+Kochi Tram
+Mumbai Tram
+Nashik Tram
+Patna Tram
+
+vteTop 100 booking stations of Indian Railways
+Agra Cantonment
+Ahmedabad Junction
+Ajmer Junction
+Akola Junction
+Ambala Cantonment Junction
+Amritsar Junction
+Asansol Junction
+Aurangabad
+Bangalore City
+Bareilly Junction
+Bhagalpur Junction
+Bhopal Junction
+Bhubaneswar
+Bhusaval Junction
+Bilaspur Junction
+Chandigarh Junction
+Chennai Central
+Chhapra Junction
+Coimbatore Junction
+Cuttack Junction
+Darbhanga Junction
+Dehradun
+Dhanbad Junction
+Durg Junction
+Ernakulam Junction
+Erode Junction
+Gaya Junction
+Ghaziabad Junction
+Gorakhpur Junction
+Guntur Junction
+Guwahati
+Gwalior Junction
+Haridwar Junction
+Hatia
+Hazur Sahib Nanded
+Howrah
+Hubli Junction
+Indore Junction
+Jabalpur Junction
+Jaipur Junction
+Jalandhar City Junction
+Jammu Tawi
+Jhansi Junction
+Jodhpur Junction
+Kanpur Central
+Katihar Junction
+Katni Junction
+Katpadi Junction
+Kharagpur Junction
+Kollam Junction
+Kota Junction
+Kozhikode
+Lucknow Charbagh
+Ludhiana Junction
+Madgaon Junction
+Madurai Junction
+Malda Town
+Malkapur
+Mangalore Central
+Manmad Junction
+Mathura Junction
+Moradabad
+Mumbai Central
+Muzaffarpur Junction
+Mysore Junction
+Nagpur Junction
+Nasik Road
+Nellore
+New Delhi
+New Jalpaiguri Junction
+Palakkad Junction
+Patna Junction
+Prayagraj Junction
+Pune Junction
+Pandit Deen Dayal Upadhyaya Junction
+Puri
+Raipur Junction
+Rajahmundry
+Rajkot Junction
+Ranchi Junction
+Ratlam Junction
+Rourkela Junction
+Salem Junction
+Satna Junction
+Secunderabad Junction
+Siwan Junction
+Solapur
+Surat
+Tatanagar Junction
+Tiruchirappalli Junction
+Tirunelveli Junction
+Tirupati
+Thrissur
+Thiruvananthapuram Central
+Udaipur City
+Ujjain Junction
+Vapi
+Vadodara Junction
+Varanasi Junction
+Vijayawada Junction
+Visakhapatnam
+Source: "100 Booking Stations of Indian Railways".
+vteRail transport in Asia Sovereign states
+Afghanistan
+Armenia
+Azerbaijan
+Bahrain
+Bangladesh
+Bhutan
+Brunei
+Cambodia
+China
+Cyprus
+East Timor (Timor-Leste)
+Egypt
+Georgia
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Myanmar
+Nepal
+Oman
+Pakistan
+Philippines
+Qatar
+Russia
+Saudi Arabia
+Singapore
+Sri Lanka
+Syria
+Tajikistan
+Thailand
+Turkey
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen
+States withlimited recognition
+Abkhazia
+Artsakh
+Northern Cyprus
+Palestine
+South Ossetia
+Taiwan
+Dependencies andother territories
+British Indian Ocean Territory
+Christmas Island
+Cocos (Keeling) Islands
+Hong Kong
+Macau
+
+ Category
+ Asia portal
+
+vteTransport in IndiaRoad
+Ministry of Road Transport and Highways
+National Highways Authority of India (NHAI)
+National Highways Development Project (NHDP)
+National Highways and Infrastructure Development Corporation Limited (NHIDCL)
+Expressways
+National highways
+list
+State highways
+Bus rapid transit
+Motor Vehicles Act
+1988
+Traffic collisions
+Land Ports Authority of India
+Rail
+Ministry of Railways
+Indian Railways
+Dedicated Freight Corridor Corporation of India
+High Speed Rail Corporation of India Limited
+National High Speed Rail Corporation Limited
+High-speed rail
+Suburban rail
+Rapid transit
+Light rail
+Monorail
+Tram
+List of railway stations
+Railways Act, 1989
+Rail accidents and incidents
+Air
+Ministry of Civil Aviation
+Directorate General of Civil Aviation
+Airports Authority of India
+List of airlines
+List of airports
+Water
+Ministry of Ports, Shipping and Waterways
+Shipping Corporation of India
+Inland Waterways Authority of India
+List of National Waterways in India
+List of ports
+National Waterways Act, 2016
+PlacesStatesAndhra Pradesh
+Eluru
+Vijayawada
+Visakhapatnam
+Karnataka
+Bangalore
+Mangalore
+Kerala
+Kochi
+Kollam
+Thiruvananthapuram
+Thrissur
+Maharashtra
+Mumbai
+Nagpur
+Pune
+Tamil Nadu
+Chennai
+Coimbatore
+Madurai
+Tiruchirappalli
+Telangana
+Hyderabad
+West Bengal
+Darjeeling
+Kolkata
+Other
+AR
+AS
+BR
+CT
+GA
+GJ
+HR
+HP
+JK
+JH
+MP
+MN
+ML
+MZ
+NL
+OD
+PB
+RJ
+SK
+TR
+UP
+UT
+Union territories
+AN
+CH
+DN
+DD
+DL
+LD
+PY
+Related
+Regional Transport Office (RTO)
+List of RTOs
+Licence plates
+Driving licence
+Road signs
+Speed limits
+
+Authority control databases National
+Germany
+People
+Trove
+
+
+^ Indian Railways websites are usually accessible only from IP addresses located in India.
+
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Indian_Railways&oldid=1185366787"
+Categories: Indian RailwaysRailway companies of IndiaCompanies based in New DelhiGovernment-owned companies of IndiaRailway companies established in 1845Indian companies established in 1845Government-owned railway companiesHidden categories: CS1 maint: multiple names: authors listWebarchive template wayback linksCS1 maint: unfit URLArticles with short descriptionShort description matches WikidataUse Indian English from November 2023All Wikipedia articles written in Indian EnglishUse dmy dates from September 2020Articles containing potentially dated statements from March 2022All articles containing potentially dated statementsArticles containing potentially dated statements from April 2023Articles containing potentially dated statements from March 2020Articles needing additional references from April 2018All articles needing additional referencesArticles with hatnote templates targeting a nonexistent pageCommons category link from WikidataArticles with hAudio microformatsSpoken articlesArticles with GND identifiersArticles with Trove identifiers
